@@ -133,4 +133,4 @@ https://play.google.com/store/apps/details?id=com.zayndeals.app
 
 ### 📫 Contact
 Email: im.priteshchitrode@gmail.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/priteshchitrode/
