@@ -2,7 +2,11 @@
 
 **Software Engineer | Flutter & Backend Developer | 4+ Years**
 
-Flutter specialist building scalable Android & iOS apps with experience in **Spring Boot, AWS, Firebase, Google Cloud, and CI/CD pipelines**. Focused on clean architecture (**MVVM, SOLID**) and production-ready mobile systems.
+Flutter Engineer with 4+ years of experience building scalable Android & iOS applications.  
+Specialized in Flutter, Dart, and backend integrations using Spring Boot.  
+Experienced with cloud platforms including AWS, Firebase, and Google Cloud.  
+Focused on clean architecture (MVVM, SOLID), performance optimization, and production-ready mobile systems.  
+Passionate about building reliable, user-centric applications deployed on Google Play Store and Apple App Store.
 
 ---
 
