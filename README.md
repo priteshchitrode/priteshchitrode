@@ -142,5 +142,5 @@ Payment Gateways • Push Notifications
 
 # 📫 Connect With Me
 
-📧 Email: priteshchitrode@icloud.com  
+📧 Email: im.priteshchitrode@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/yourprofile
