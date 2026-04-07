@@ -1,146 +1,132 @@
 # Hi 👋 I'm Pritesh Chitrode
 
-🚀 **Software Engineer | Flutter & Backend Developer | 4+ Years Experience**
+**Software Engineer | Flutter & Backend Developer | 4+ Years**
 
-Software Engineer with 4+ years of experience building scalable mobile and backend applications. Specialized in **Flutter development** for high-performance Android and iOS apps, with additional experience in **Java Spring Boot backend development** for secure REST APIs and scalable services. Experienced in designing clean architectures using **MVVM, SOLID principles, and modern state management (Bloc, Provider, GetX)**. Proven track record of delivering production-ready applications, leading development teams, and deploying apps to **Google Play Store and Apple App Store**. Passionate about building reliable, user-focused products while maintaining clean, maintainable, and scalable code.
-
----
-
-## 🧑‍💻 About Me
-- 📱 4+ years experience in **Flutter mobile development**
-- ⚙️ Experience with **REST APIs, Firebase, CI/CD**
-- 🏗 Architecture: **MVVM, Clean Architecture, SOLID principles**
-- 🔄 State Management: **Bloc, Provider, GetX**
-- ☁️ Experience with **AWS & Backend Integration**
-- 📦 Published multiple apps on **Google Play Store & Apple App Store**
+Flutter specialist building scalable Android & iOS apps with experience in **Spring Boot, AWS, Firebase, Google Cloud, and CI/CD pipelines**. Focused on clean architecture (**MVVM, SOLID**) and production-ready mobile systems.
 
 ---
 
-# 🚀 Mobile Applications
+### ⚡ Tech Stack
+Flutter • Dart • Spring Boot • Firebase  
+AWS • Google Cloud • REST APIs  
+Bloc • Provider • GetX • CI/CD • Git
 
-## Zarf Restaurant
-Features: UI Design, Firebase Notifications, Social Login, QR Scanner, Timezone, Search
+---
 
-📱 App Store  
+## 🚀 Projects
+
+<details>
+<summary><strong>View Projects</strong></summary>
+
+### Zarf Restaurant
+UI Design, Firebase Notifications, Social Login, QR Scanner
+
+App Store  
 https://apps.apple.com/in/app/univaprav%C3%A1z%C3%A1hor%C3%A1cka/id6443543383
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.app.univa
 
 ---
 
-## Fiji Car Rentals
-Features: UI Design, Firebase Notifications, Payment Gateway, Google Maps
+### Fiji Car Rentals
+UI Design, Firebase Notifications, Payment Gateway, Google Maps
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/fiji-car-rentals/id1662521840
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.shrinkcom.fijicar
 
 ---
 
-## Nastaqdim
-Features: Google Maps, REST APIs, Search, Native Call Redirection
+### Nastaqdim
+Google Maps, REST APIs, Search
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.shrinkcom.nastaqdim
 
 ---
 
-## Autoškola SMILE
-Features: Firebase Notifications, Calendar, Animations, GetX
+### Autoškola SMILE
+Firebase Notifications, Calendar, Animations, GetX
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/auto%C5%A1kola-smile/id1667825746
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.androidapp.autoskolasmile
 
 ---
 
-## Voices VoiceCasting
-Features: Music Player, WebView
+### Voices VoiceCasting
+Music Player, WebView
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/voice-over-self-direction/id731453256
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.adahelps.VoicesVoiceCasting
 
 ---
 
-## Mighty Delivery
-Features: OneSignal Notifications, Google Maps, Payment Gateway, MobX
+### Mighty Delivery
+OneSignal Notifications, Google Maps, Payment Gateway, MobX
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/247-delivery/id6448109239
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.app.delivery247
 
 ---
 
-## JOJKA S VAMI
-Features: Video Player, Push Notifications, Translation, GetX
+### JOJKA S VAMI
+Video Player, Push Notifications, Translation, GetX
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/jojka-s-vami/id6449217616
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.app.jojkasvami
 
 ---
 
-## UNIBUSS
-Features: Google Maps, Payment Integration, Routing, Provider
+### UNIBUSS
+Google Maps, Payment Integration, Routing, Provider
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/unibuss/id6448781267
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.app.unibuss
 
 ---
 
-## Task Management
-Features: Push Notifications, Multi-language Support, GetX
+### Task Management
+Push Notifications, Multi-language Support, GetX
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/nway-task-management/id6502339771
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.nway.taskmanagement
 
 ---
 
-## Zayn Deals
-Features: Firebase, Payment Gateway, Multi-language Support
+### Zayn Deals
+Firebase, Payment Gateway, Multi-language
 
-📱 App Store  
+App Store  
 https://apps.apple.com/in/app/zayn-deals/id6503645401
 
-🤖 Play Store  
+Play Store  
 https://play.google.com/store/apps/details?id=com.zayndeals.app
 
----
-
-# 🛠 Tech Stack
-
-Flutter • Dart • Firebase • REST APIs  
-Bloc • Provider • GetX • MobX  
-AWS • Git • CI/CD • Google Maps  
-Payment Gateways • Push Notifications
+</details>
 
 ---
 
-# 📊 GitHub Stats
-
-![Pritesh GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshchitrode&show_icons=true)
-
----
-
-# 📫 Connect With Me
-
-📧 Email: im.priteshchitrode@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+### 📫 Contact
+Email: im.priteshchitrode@gmail.com  
+LinkedIn: https://linkedin.com/in/yourprofile
