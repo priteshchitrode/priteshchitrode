@@ -1,10 +1,10 @@
 # Hi 👋 I'm Pritesh Chitrode
 
-**Software Engineer | Flutter & Backend Developer | 4+ Years**
+**Software Engineer | Flutter & Backend Developer | 5+ Years**
 
-Flutter Engineer with 4+ years of experience building scalable Android & iOS applications.  
-Specialized in Flutter, Dart, and backend integrations using Spring Boot.  
-Experienced with cloud platforms including AWS, Firebase, and Google Cloud.  
+Flutter Engineer with 5+ years of experience building scalable Android & iOS applications.  
+Specialized in **Flutter**, **Dart**, and backend integrations using **Spring Boot**.  
+Experienced with cloud platforms including **AWS**, **Firebase**, and **Google Cloud**.  
 Focused on clean architecture (MVVM, SOLID), performance optimization, and production-ready mobile systems.  
 Passionate about building reliable, user-centric applications deployed on Google Play Store and Apple App Store.
 
