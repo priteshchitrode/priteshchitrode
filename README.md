@@ -135,15 +135,14 @@ https://play.google.com/store/apps/details?id=com.zayndeals.app
 ##### 50K+ Downloads on Play Store & App Store #####
 Firebase, MVVM, SOLID Principle, Bloc, Multi-language
 
-App Store  
-https://apps.apple.com/in/app/zayn-deals/id6503645401
+App Store: https://apps.apple.com/in/app/gro-one/id6747885927
 
-Play Store 
-https://play.google.com/store/apps/details?id=com.zayndeals.app](https://play.google.com/store/apps/details?id=com.gro.oneapp&hl=en_IN
+Play Store: https://play.google.com/store/apps/details?id=com.gro.oneapp&hl=en_IN
 
 </details>
 
 
+---
 
 
 
