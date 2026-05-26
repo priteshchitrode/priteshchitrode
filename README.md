@@ -23,6 +23,7 @@ Bloc • Provider • GetX • CI/CD • Git
 <summary><strong>View Projects</strong></summary>
 
 ### Zarf Restaurant
+#### 5K+ Downloads on playstore & app store ####
 UI Design, Firebase Notifications, Social Login, QR Scanner
 
 App Store  
@@ -119,6 +120,7 @@ https://play.google.com/store/apps/details?id=com.nway.taskmanagement
 ---
 
 ### Zayn Deals
+#### 5K+ Downloads on playstore & app store ####
 Firebase, Payment Gateway, Multi-language
 
 App Store  
@@ -130,6 +132,19 @@ https://play.google.com/store/apps/details?id=com.zayndeals.app
 </details>
 
 ---
+
+### Gro One
+#### 50K+ Downloads on Play Store & App Store ####
+Firebase, MVVM, SOLID Principle, Bloc, Multi-language
+
+App Store  
+https://apps.apple.com/in/app/zayn-deals/id6503645401
+
+Play Store 
+https://play.google.com/store/apps/details?id=com.zayndeals.app](https://play.google.com/store/apps/details?id=com.gro.oneapp&hl=en_IN
+
+</details>
+
 
 ### 📫 Contact
 Email: im.priteshchitrode@gmail.com  
