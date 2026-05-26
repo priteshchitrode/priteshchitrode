@@ -129,8 +129,6 @@ https://apps.apple.com/in/app/zayn-deals/id6503645401
 Play Store  
 https://play.google.com/store/apps/details?id=com.zayndeals.app
 
-</details>
-
 ---
 
 ### Gro One
@@ -144,6 +142,9 @@ Play Store
 https://play.google.com/store/apps/details?id=com.zayndeals.app](https://play.google.com/store/apps/details?id=com.gro.oneapp&hl=en_IN
 
 </details>
+
+
+
 
 
 ### 📫 Contact
